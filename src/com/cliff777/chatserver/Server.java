@@ -1,4 +1,4 @@
-package com.cliff777.servershell;
+package com.cliff777.chatserver;
 
 import java.io.IOException;
 import java.net.ServerSocket;
